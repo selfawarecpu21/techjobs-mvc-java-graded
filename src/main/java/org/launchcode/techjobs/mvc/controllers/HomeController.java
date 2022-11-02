@@ -10,6 +10,12 @@ import java.util.HashMap;
 /**
  * Created by LaunchCode
  */
+
+// This class has only one handler method, index, which displays the home page for the app. The controller renders the index.html template (in src/main/resources/templates)
+
+
+
+
 @Controller
 public class HomeController {
 
